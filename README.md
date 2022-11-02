@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHHD99
-- 👀 I’m interested in Data science IA ML DL CV NLP DM BI
-- 🌱 I’m currently learning IA
+- 👀  I’m interested in Data science, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Data Mining, Business intelligence, etc.
+- 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
 
 <!---
