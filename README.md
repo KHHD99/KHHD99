@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KHHD99
+- 👋 Hi, I’m @KHHD
 - 👀  I’m interested in Data science, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Data Mining, Business intelligence, etc.
 - 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
