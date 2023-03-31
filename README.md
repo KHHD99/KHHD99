@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KHHD
-- 👀  I’m interested in Data science, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Data Mining, Business intelligence, etc.
-- 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
+- 👀  I'm a data scientist junior I’m interested in Data science with a passion for creating innovative solutions to complex problems. I have experience in Machine Learning, Deep Learning, Reinforcement Learning, Data Mining, and Business Intelligence, etc. I have worked with a variety of programming languages, including C, C++, R, and Python. And also a variety of project such as Face recognition, 
+
+- 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
 <!---
 KHHD99/KHHD99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
