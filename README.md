@@ -1,8 +1,8 @@
-- Profil:
+# About Me:
   - As a junior data scientist, I am highly passionate about the field of data science I am  interested in creating innovative solutions to real-world problems. I have experience in Machine Learning, Deep Learning, Reinforcement Learning, Data Mining, and Business Intelligence, etc. I have worked with a variety of programming languages, including C, C++, R, and Python. And also a variety of project in different data science fields.
   - 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
-- Meni Projects:
+# Meni Projects:
     - Reinforcement Learning (RL):
       - FrozenLake  
       - MontainCar 
@@ -31,7 +31,7 @@
       - Data Integration (DI)
 
 
-- Skills:
+# Skills:
   - programming languages:
     - C, C++, Python, R, MATLAB, DAX 
     
@@ -65,15 +65,15 @@
   - OS:
     - Windows, Lunix
 
-- Contact:
+# Contact:
   - If you have any questions or would like to collaborate on a project, feel free to contact me at   khalidhaddou99@gmail.com.
 
-- Interests:
+# Interests:
   - Here are some of my non-technical interests:
     - Cooking  
     - Baking
     
-- Contributions:
+# Contributions:
   - I am a contributor to various open-source projects on GitHub. You can see my contributions on my GitHub profile.
 
 <!---
