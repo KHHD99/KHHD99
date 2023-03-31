@@ -3,67 +3,68 @@
   - 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
 # Meni Projects:
-    - Reinforcement Learning (RL):
-      - FrozenLake  
-      - MontainCar 
-      - LunderLand 
-      
-    - Neo4j:
-      - Tweeter graph analysis
 
-    - Machine Learning (ML):
-      - Sentiment Classification (text analysis with Pytorch)
-      - Sentiment Analysis
-      - Sensor Data Analysis 
-      - Text Mining
+- Reinforcement Learning (RL):
+  - FrozenLake  
+  - MontainCar 
+  - LunderLand 
+     
+- Neo4j:
+  - Tweeter graph analysis
 
-    - Deep Learning (DL):
-      - Mobile application for object detection
-      - Sensor Data Analysis
-      - Covid-19 detection using X-rays
-      - Mask Detection
+- Machine Learning (ML):
+  - Sentiment Classification (text analysis with Pytorch)
+  - Sentiment Analysis
+  - Sensor Data Analysis 
+  - Text Mining
 
-    - OpenCV:
-      - Facial Recognition System
+- Deep Learning (DL):
+  - Mobile application for object detection
+  - Sensor Data Analysis
+  - Covid-19 detection using X-rays
+  - Mask Detection
 
-    - Business Intelligence (BI)
-      - Data Warehousing (Talend, RapidMiner, Tableau)
-      - Data Integration (DI)
+- OpenCV:
+  - Facial Recognition System
+
+- Business Intelligence (BI)
+  - Data Warehousing (Talend, RapidMiner, Tableau)
+  - Data Integration (DI)
 
 
 # Skills:
-  - programming languages:
-    - C, C++, Python, R, MATLAB, DAX 
+- programming languages:
+  - C, C++, Python, R, MATLAB, DAX 
     
-  - BI:
-    - Pentaho, Jasper-soft, Tableau, Talend, RapidMiner, DAX, Pivot4j
+- BI:
+  - Pentaho, Jasper-soft, Tableau, Talend, RapidMiner, DAX, Pivot4j
     
-  - SQL:
-    - Oracle, PandaSQL
+- SQL:
+  - Oracle, PandaSQL
     
-  - DI:
-    - Request, BeautifulSoup 
+- DI:
+  - Request, BeautifulSoup 
   
-  - NoSQL:
-    - MongoDB, CouchDB, Neo4j, Elasticsearch
+- NoSQL:
+  - MongoDB, CouchDB, Neo4j, Elasticsearch
  
- - Ecosystem Hadoop:
-    - Hive, Sqoop, HDFS
+- Ecosystem Hadoop:
+  - Hive, Sqoop, HDFS
   
-  - ML/DL : 
-    - NumPy, SciPy, Scikit-learn, Pandas, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch
+- ML/DL : 
+  - NumPy, SciPy, Scikit-learn, Pandas, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch
   
-  - Computer Vision: 
-    - Open-CV
+- Computer Vision: 
+  - Open-CV
   
-  - NLP :
-    - NLTK, Spacy
+- NLP :
+  - NLTK, Spacy
   
-  - RL : 
-    - Open AI gym
+- RL : 
+  - Open AI gym
   
-  - OS:
-    - Windows, Lunix
+- OS:
+  - Windows, Lunix
 
 # Contact:
   - If you have any questions or would like to collaborate on a project, feel free to contact me at   khalidhaddou99@gmail.com.
