@@ -1,5 +1,5 @@
 - Profil:
-  - I'm a data scientist junior I’m interested in Data science with a passion for creating innovative solutions to complex problems. I have experience in Machine Learning, Deep Learning, Reinforcement Learning, Data Mining, and Business Intelligence, etc. I have worked with a variety of programming languages, including C, C++, R, and Python. And also a variety of project such as Face recognition, 
+  - As a junior data scientist, I am highly passionate about the field of data science I am  interested in creating innovative solutions to real-world problems. I have experience in Machine Learning, Deep Learning, Reinforcement Learning, Data Mining, and Business Intelligence, etc. I have worked with a variety of programming languages, including C, C++, R, and Python. And also a variety of project in different data science fields.
   - 🌱 I’m currently learning Artificial Intelligence Basis and applications
 
 - Meni Projects:
