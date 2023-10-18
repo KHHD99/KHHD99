@@ -1,6 +1,6 @@
 # About Me:
   - As a junior data scientist, I am highly passionate about the field of data science I am  interested in creating innovative solutions to real-world problems. I have experience in Machine Learning, Deep Learning, Reinforcement Learning, Data Mining, and Business Intelligence, etc. I have worked with a variety of programming languages, including C, C++, R, and Python. And also a variety of project in different data science fields.
-  - 🌱 I’m currently learning Artificial Intelligence Basis and applications
+  - 🌱 I’m currently a Data Scientist with a master's degree in Artificial Intelligence Basis and applications (2023), as well as a master's degre in data sciences and decision suppot (2022).
 
 # Meni Projects:
 
