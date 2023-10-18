@@ -73,6 +73,8 @@
   - Here are some of my non-technical interests:
     - Cooking  
     - Baking
+    - Music
+    - Sport
     
 # Contributions:
   - I am a contributor to various open-source projects on GitHub. You can see my contributions on my GitHub profile.
