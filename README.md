@@ -33,7 +33,7 @@
 
 
 # Skills:
-- programming languages:
+- Programming languages:
   - C, C++, Python, R, MATLAB, DAX 
     
 - BI:
@@ -77,7 +77,7 @@
     - Sport
     
 # Contributions:
-  - I am a contributor to various open-source projects on GitHub. You can see my contributions on my GitHub profile.
+  - I am a contributor to various open-source (or private) projects on GitHub. You can see my contributions on my GitHub profile.
 
 <!---
 KHHD99/KHHD99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
